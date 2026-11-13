@@ -1,16 +1,75 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**gabriellymell0/gabriellymell0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Gabrielly Mello! 👋
 
-Here are some ideas to get you started:
+**Full Stack Developer · Computer Engineering Student · Researcher**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+From southern Brazil to the world, building one project at a time.
+
+[![GitHub](https://img.shields.io/badge/GitHub-ollem--dev-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ollem-dev)
+![FURG](https://img.shields.io/badge/Computer_Engineering-FURG-4169A8?style=for-the-badge)
+
+</div>
+
+---
+
+## About me
+
+I'm a Computer Engineering student at the Federal University of Rio Grande (FURG), Brazil. My journey in technology started with curiosity about how things work and grew through hands-on experience in IT support, software development and scientific research.
+
+- 💻 **Full Stack Developer at ClarIA Task**, an AI-powered task management platform developed at LEP/FURG.
+- 🔬 **Volunteer researcher at the Production Engineering Laboratory (LEP/FURG)**, working on the assessment of behavioral competencies in higher education.
+- 🛠️ Two years of experience in IT support, computer maintenance, networking and institutional websites.
+- 🌱 Currently strengthening my skills in backend development, relational databases and full stack applications.
+- 🎯 Interested in software engineering, artificial intelligence and building practical solutions.
+
+## Tech stack
+
+### Languages & web development
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-8B5CF6?style=flat-square)
+
+### Tools & infrastructure
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-4169A8?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=flat-square&logo=joomla&logoColor=white)
+
+## Featured projects
+
+| Project | About | Technologies |
+| :--- | :--- | :--- |
+| **ClarIA Task** | Collaborative AI-powered task management platform. Contributing to Kanban column management, drag-and-drop interactions and API integration. | React, JavaScript, REST APIs |
+| [**Inventory Management System**](https://github.com/ollem-dev/Sistema-de-Estoque) | Academic project for product registration, inventory control and sales. Originally built with CSV storage; evolving toward a database-backed application. | Python, CSV; SQL (planned migration) |
+
+## Research & academic experience
+
+At **LEP/FURG**, I contribute to research on behavioral competency assessment in higher education, including literature review, data organization and analysis, development of assessment scenarios and their application in universities.
+
+My academic experience also includes participation in scientific events such as **ENEGEP** and **SEPROSUL**, as well as academic support through **PAENE/FURG**.
+
+## Let's connect
+
+I'm interested in opportunities to learn, collaborate and build meaningful software projects.
+
+[![GitHub](https://img.shields.io/badge/Follow_me_on_GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ollem-dev)
+
+<!-- Add your LinkedIn profile here when ready:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4169A8?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_PROFILE_URL)
 -->
+
+---
+
+<div align="center">
+
+*Always learning. Always building.*
+
+</div>
+

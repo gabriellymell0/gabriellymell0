@@ -6,7 +6,8 @@
 
 From southern Brazil to the world, building one project at a time.
 
-[![GitHub](https://img.shields.io/badge/GitHub-ollem--dev-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ollem-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-gabriellymell0-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabriellymell0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4169A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielly-mello-81a703380)
 ![FURG](https://img.shields.io/badge/Computer_Engineering-FURG-4169A8?style=for-the-badge)
 
 </div>
@@ -47,7 +48,7 @@ I'm a Computer Engineering student at the Federal University of Rio Grande (FURG
 | Project | About | Technologies |
 | :--- | :--- | :--- |
 | **ClarIA Task** | Collaborative AI-powered task management platform. Contributing to Kanban column management, drag-and-drop interactions and API integration. | React, JavaScript, REST APIs |
-| [**Inventory Management System**](https://github.com/ollem-dev/Sistema-de-Estoque) | Academic project for product registration, inventory control and sales. Originally built with CSV storage; evolving toward a database-backed application. | Python, CSV; SQL (planned migration) |
+| [**Inventory Management System**](https://github.com/gabriellymell0/Sistema-de-Estoque) | Academic project for product registration, inventory control and sales. Originally built with CSV storage; evolving toward a database-backed application. | Python, CSV; SQL (planned migration) |
 
 ## Research & academic experience
 
@@ -59,11 +60,9 @@ My academic experience also includes participation in scientific events such as 
 
 I'm interested in opportunities to learn, collaborate and build meaningful software projects.
 
-[![GitHub](https://img.shields.io/badge/Follow_me_on_GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ollem-dev)
+[![GitHub](https://img.shields.io/badge/Follow_me_on_GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabriellymell0)
 
-<!-- Add your LinkedIn profile here when ready:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4169A8?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_PROFILE_URL)
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4169A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielly-mello-81a703380)
 
 ---
 
@@ -72,4 +71,3 @@ I'm interested in opportunities to learn, collaborate and build meaningful softw
 *Always learning. Always building.*
 
 </div>
-

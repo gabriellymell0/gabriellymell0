@@ -45,10 +45,32 @@ I'm a Computer Engineering student at the Federal University of Rio Grande (FURG
 
 ## Featured projects
 
-| Project | About | Technologies |
-| :--- | :--- | :--- |
-| **ClarIA Task** | Collaborative AI-powered task management platform. Contributing to Kanban column management, drag-and-drop interactions and API integration. | React, JavaScript, REST APIs |
-| [**Inventory Management System**](https://github.com/gabriellymell0/Sistema-de-Estoque) | Academic project for product registration, inventory control and sales. Originally built with CSV storage; evolving toward a database-backed application. | Python, CSV; SQL (planned migration) |
+### ClarIA Task — LEP/FURG
+
+An AI-powered task management platform developed at the Production Engineering Laboratory (LEP/FURG) to support task organization and productivity.
+
+**Role:** Full Stack Developer
+
+**My contributions:**
+- Development and improvement of the Kanban board.
+- Column management features, including editing, deletion and drag-and-drop interactions.
+- Front-end development with React and JavaScript and integration with REST APIs.
+- Collaborative development using Git and GitHub.
+
+**Technologies:** React · JavaScript · REST APIs · Git  
+**Project backend:** Python
+
+[![Backend](https://img.shields.io/badge/Backend-Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LEP-IA/backend)
+[![ClarIA Task](https://img.shields.io/badge/ClarIA_Task-Application-FF7800?style=for-the-badge&logoColor=white)](https://claria-task.up.railway.app/workspaces)
+[![LEP-IA](https://img.shields.io/badge/LEP--IA-Organization-4169A8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LEP-IA)
+
+> The frontend repository is private. The public backend and application are linked above.
+
+### [Inventory Management System](https://github.com/gabriellymell0/Sistema-de-Estoque)
+
+An academic Python project for product registration, inventory control and sales. Originally built with CSV storage; evolving toward a database-backed application.
+
+**Technologies:** Python · CSV · SQL (planned migration)
 
 ## Research & academic experience
 
